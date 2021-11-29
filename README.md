@@ -1,0 +1,2 @@
+# Vidly
+Test django app
